@@ -3,7 +3,7 @@ const expect = require('chai').expect;
 describe('test_suite1', function () {
 
     it('expect true', function () {
-        expect(true).to.equal(false);
+        expect(true).to.equal(true);
     });
 });
 
